@@ -9,4 +9,4 @@ require (
 	github.com/pkg/errors v0.8.1
 )
 
-replace github.com/gocql/gocql => github.com/scylladb/gocql v1.5.0
+replace github.com/gocql/gocql => github.com/vponomaryov/gocql v0.0.0-20220828124709-db56502a2ad6
